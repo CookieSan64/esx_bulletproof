@@ -1,11 +1,11 @@
-#ESX Bullproof
+# ESX Bullproof
 [FR]
 Ce script ajoute un gilet pare-balles en tant qu'objet utilisable.
 
 [EN]
 This script adds a bulletproof vest as a usable item.
 
-##Installation
+## Installation
 [FR]
 Téléchargez le script et ajoutez-le à votre dossier de ressources.
 Ajoutez `ensure esx_bullproof` à votre fichier server.cfg.
@@ -14,14 +14,14 @@ Ajoutez `ensure esx_bullproof` à votre fichier server.cfg.
 Download the script and add it to your resources folder.
 Add `ensure esx_bullproof` to your server.cfg file.
 
-##Description
+## Description
 [FR]
 Le script ajoute un gilet pare-balles à votre inventaire d'objets.
 
 [EN]
 The script adds a bulletproof vest to your item inventory.
 
-##Todo
+## Todo
 [FR]
 Ajouter le gilet pare-balles en tant que vêtement (`bproof_1` et `bproof_2`). Si vous êtes capable de réaliser cette fonctionnalité, nous serions ravis de recevoir de l'aide.
 Si vous avez des questions ou des commentaires sur le script, n'hésitez pas à nous contacter.
