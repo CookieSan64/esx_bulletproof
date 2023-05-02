@@ -29,3 +29,5 @@ Si vous avez des questions ou des commentaires sur le script, n'hésitez pas à 
 [EN]
 Add the bulletproof vest as clothing (`bproof_1` and `bproof_2`). If you are able to achieve this functionality, we would love to receive help.
 If you have any questions or comments about the script, please don't hesitate to contact us. 
+
+Discord : CookieSan#5805
